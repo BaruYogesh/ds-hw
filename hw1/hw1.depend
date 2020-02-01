@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1580578176 source:f:\school\ds_hw\hw1\main.cpp
+	"BookInfo.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1580502838 f:\school\ds_hw\hw1\include\bookinfo.h
+	<string>
+
+1580577972 source:f:\school\ds_hw\hw1\src\bookinfo.cpp
+	"BookInfo.h"
+	<iostream>
+
